@@ -1,10 +1,10 @@
 # DataMining-Exercise- :
 
 # Exercise_03-01.py
-1. Preprocessing
+1. Text preprocessing
 
 # Exercise_03-02.py
-2. Frequency of repetition of each keyword
+2. Term Frequency
 
 # Exercise_03-03.py
 3. Entropy
